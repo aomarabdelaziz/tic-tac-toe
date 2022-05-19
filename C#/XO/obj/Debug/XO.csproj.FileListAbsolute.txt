@@ -1,0 +1,16 @@
+C:\Users\Pumpkin\source\repos\XO\XO\bin\Debug\XO.exe.config
+C:\Users\Pumpkin\source\repos\XO\XO\bin\Debug\XO.exe
+C:\Users\Pumpkin\source\repos\XO\XO\bin\Debug\XO.pdb
+C:\Users\Pumpkin\source\repos\XO\XO\obj\Debug\XO.csproj.AssemblyReference.cache
+C:\Users\Pumpkin\source\repos\XO\XO\obj\Debug\XO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pumpkin\source\repos\XO\XO\obj\Debug\XO.csproj.CoreCompileInputs.cache
+C:\Users\Pumpkin\source\repos\XO\XO\obj\Debug\XO.exe
+C:\Users\Pumpkin\source\repos\XO\XO\obj\Debug\XO.pdb
+C:\Users\Pumpkin\Desktop\XOGame\C#\XO\XO\bin\Debug\XO.exe.config
+C:\Users\Pumpkin\Desktop\XOGame\C#\XO\XO\bin\Debug\XO.exe
+C:\Users\Pumpkin\Desktop\XOGame\C#\XO\XO\bin\Debug\XO.pdb
+C:\Users\Pumpkin\Desktop\XOGame\C#\XO\XO\obj\Debug\XO.csproj.AssemblyReference.cache
+C:\Users\Pumpkin\Desktop\XOGame\C#\XO\XO\obj\Debug\XO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pumpkin\Desktop\XOGame\C#\XO\XO\obj\Debug\XO.csproj.CoreCompileInputs.cache
+C:\Users\Pumpkin\Desktop\XOGame\C#\XO\XO\obj\Debug\XO.exe
+C:\Users\Pumpkin\Desktop\XOGame\C#\XO\XO\obj\Debug\XO.pdb
