@@ -1,2 +1,6 @@
-﻿  Game.cpp
-  XOCpp.vcxproj -> C:\Users\Pumpkin\source\repos\XOCpp\x64\Debug\XOCpp.exe
+﻿  Board.cpp
+  Game.cpp
+  Player.cpp
+  XOCpp.cpp
+  Generating Code...
+  XOCpp.vcxproj -> C:\Users\Pumpkin\Desktop\XOGame\C++\x64\Debug\XOCpp.exe
