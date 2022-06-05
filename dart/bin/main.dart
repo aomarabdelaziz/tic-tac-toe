@@ -1,9 +1,7 @@
-import 'package:tictactoe/game.dart' as boardGame;
-import 'dart:io';
-
+import 'package:tictactoe/game.dart' as board_game;
 void main(List<String> arguments) 
 {
-    boardGame.Game game = boardGame.Game();
+    board_game.Game game = board_game.Game();
     game.play();
     
 }
